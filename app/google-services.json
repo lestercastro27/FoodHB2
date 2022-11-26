@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642505417322",
+    "project_id": "foodhb2-2d893",
+    "storage_bucket": "foodhb2-2d893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642505417322:android:ea1df4b0169f391af9a013",
+        "android_client_info": {
+          "package_name": "com.example.foodhb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642505417322-pmrik0hin611s5behe02dbaava3v8jem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNai7ykSqFhSFab9lF_LOKFIJpAyeFSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642505417322-pmrik0hin611s5behe02dbaava3v8jem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
